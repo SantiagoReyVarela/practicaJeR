@@ -1,20 +1,13 @@
  
 
-# Juegos en Red- Grupo 3 | Don Kam-Arón   
-
-# “Enjoying the past, living the future”    
-
- 
-
-# Garras y Queso    
-#GDD V2
-
+# Juegos en Red- Grupo 10   
  
 
  
 
-Migue Ángel Jiménez Montemayor    
-Natalia Martínez Clemente    
+# Piedra. Papel. Tijeras 
+
+ 
 Santiago Varela Rey    
    
 
