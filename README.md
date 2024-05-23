@@ -31,7 +31,6 @@ Santiago Varela Rey
 | :-------------: | :-------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Versión 1     | 24/5/2024       | Versión Inicial                                                                                                                                                                                                                     |
 | Versión 2<br> | 05 Dic 2023         | Eliminadas escenas de carga interactivas, eliminado archivos de guardado, actualizados movimientos personajes, Eliminados ciertos niveles del juego, actualizacón habilidades personajes, actualización mapa esquemático de niveles, eliminado arte y concept |
-
 | Versión 2<br> | 05 Dic 2023         | Eliminadas escenas de carga interactivas, eliminado archivos de guardado, actualizados movimientos personajes, Eliminados ciertos niveles del juego, actualizacón habilidades personajes, actualización mapa esquemático de niveles, eliminado arte y concept |
 
 
