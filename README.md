@@ -81,7 +81,7 @@ Controles en local:
 El juego no tiene una cantidad fija de niveles, sino que dicha cantidad depende de las victorias acumuladas por uno y otro jugador.
 
 
-<a name=item4></a>  
+<a name=item3></a>  
 # Estados del Juego 
 
  
@@ -89,17 +89,17 @@ El juego no tiene una cantidad fija de niveles, sino que dicha cantidad depende 
 
 
  
-<a name=item5></a>   
+<a name=item4></a>   
 # Música y Sonidos 
 
 Para la música, usamos una banda sonora épica durante el transcurso de las fases y para las situaciones de victoria y derrota.
 Todas las licencias de la música serán CC0(Creative commons Zero) o CCBy (Creative commons conreconocimiento).
  
-<a name=item6></a>  
+<a name=item5></a>  
 # Miembros del Equipo 
 ~~~
 SANTIAGO VARELA REY 
 ~~~
 
-<a name=item7></a>  
+<a name=item6></a>  
 # Anexos   
