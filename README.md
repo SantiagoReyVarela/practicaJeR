@@ -29,9 +29,10 @@ Santiago Varela Rey
 # Historial de versiones
 | Nº Version    | Fecha actualización | Modificaciones                                                                                                                                                                                                                      |
 | :-------------: | :-------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Versión 1     | 17 Oct 2023         | Versión Inicial                                                                                                                                                                                                                     |
+| Versión 1     | 24/5/2024       | Versión Inicial                                                                                                                                                                                                                     |
 | Versión 2<br> | 05 Dic 2023         | Eliminadas escenas de carga interactivas, eliminado archivos de guardado, actualizados movimientos personajes, Eliminados ciertos niveles del juego, actualizacón habilidades personajes, actualización mapa esquemático de niveles, eliminado arte y concept |
 
+| Versión 2<br> | 05 Dic 2023         | texto |
 
 
 <a name=item1></a>  
