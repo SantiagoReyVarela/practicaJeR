@@ -94,7 +94,7 @@ El juego no tiene una cantidad fija de niveles, sino que dicha cantidad depende 
 # Estados del Juego 
 
  
-![EstadosDelJuego](/Documentación/ImagesDocumentation/EstadosDelJuego.png "Langostas4Ever")   
+![EstadosDelJuego](Documentacion/estados de juego.jpg)   
 
 
  
