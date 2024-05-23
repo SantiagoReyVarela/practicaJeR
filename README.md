@@ -18,7 +18,8 @@ Santiago Varela Rey
 # Historial de versiones
 | Nº Version    | Fecha actualización | Modificaciones                                                                                                                                                                                                                      |
 | :-------------: | :-------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Versión 1     | 24/5/2024       | Versión Inicial                                                                                                                                                                                                                     |
+| Versión 1     | 24/5/2024       | Versión Inicial 
+Creación del GDD y del repositorio|
 | Versión 2<br> | 25/5/2024         | Eliminadas escenas de carga interactivas, eliminado archivos de guardado, actualizados movimientos personajes, Eliminados ciertos niveles del juego, actualizacón habilidades personajes, actualización mapa esquemático de niveles, eliminado arte y concept |
 | Versión 3<br> | 26/5/2024 | o algo|
 | Versión 3<br> | 27/5/2024 | o algo|
