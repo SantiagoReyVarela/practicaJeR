@@ -19,8 +19,8 @@ Santiago Varela Rey
 | Nº Version    | Fecha actualización | Modificaciones                                                                                                                                                                                                                      |
 | :-------------: | :-------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Versión 1     | 24/5/2024       | Versión Inicial                                                                                                                                                                                                                     |
-| Versión 2<br> | 05 Dic 2023         | Eliminadas escenas de carga interactivas, eliminado archivos de guardado, actualizados movimientos personajes, Eliminados ciertos niveles del juego, actualizacón habilidades personajes, actualización mapa esquemático de niveles, eliminado arte y concept |
-| Versión 2<br> | 05 Dic 2023         | Eliminadas escenas de carga interactivas, eliminado archivos de guardado, actualizados movimientos personajes, Eliminados ciertos niveles del juego, actualizacón habilidades personajes, actualización mapa esquemático de niveles, eliminado arte y concept |
+| Versión 2<br> | xd         | Eliminadas escenas de carga interactivas, eliminado archivos de guardado, actualizados movimientos personajes, Eliminados ciertos niveles del juego, actualizacón habilidades personajes, actualización mapa esquemático de niveles, eliminado arte y concept |
+| Versión 3<br> | texto | o algo|
 
 
 
