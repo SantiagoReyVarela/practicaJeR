@@ -94,7 +94,7 @@ El juego no tiene una cantidad fija de niveles, sino que dicha cantidad depende 
 # Estados del Juego 
 
  
-![EstadosDelJuego](/Documentacion/estados_de_juego.jpg)   
+![EstadosDelJuego](/Documentacion/estados_de_juego.jpg "as")   
 
 
  
