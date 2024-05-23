@@ -72,9 +72,9 @@ PC. Estará disponible en la plataforma de juegos Steam
 ## Mecánicas del Juego 
 Controles en local:
 - Movimiento de ratón y clic izquierdo.
-Jugabilidad: el juego está planteado para que se juegue varias veces.
-Niveles: el juego se compone de varios niveles (o fases) que consisten en repeticiones de la misma pantalla hasta que alguno de los jugadores consiga 3 victorias.
-Cualquier persona podría jugarlo sin problemas.
+# Jugabilidad: el juego está planteado para que se juegue varias veces.
+# Niveles: el juego se compone de varios niveles (o fases) que consisten en repeticiones de la misma pantalla hasta que alguno de los jugadores consiga 3 victorias.
+# Cualquier persona podría jugarlo sin problemas.
 
 ## Mecánicas de Niveles 
 
