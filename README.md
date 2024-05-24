@@ -19,15 +19,15 @@ Santiago Varela Rey
 | Nº Version    | Fecha actualización | Modificaciones                                                                                                                                                                                                                      |
 | :-------------: | :-------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Versión 1     | 24/5/2024       | Creación del GDD y del repositorio|
-| Versión 2<br> | 25/5/2024         | trabajo duru |
-| Versión 3<br> | 26/5/2024 | o algo|
-| Versión 3<br> | 27/5/2024 | o algo|
+| Versión 2<br> | 25/5/2024         | Diseño de imágenes que se van a usar en el videojuego |
+| Versión 3<br> | 26/5/2024 | Programación. Lógica básica, ajuste general de la interfaz y testeo contra la máquina|
+| Versión 3<br> | 27/5/2024 | Programación. Relación entre pantallas|
 | Versión 3<br> | 28/5/2024 | o algo|
 | Versión 3<br> | 29/5/2024 | o algo|
 | Versión 3<br> | 30/5/2024 | o algo|
 | Versión 3<br> | 31/5/2024 | o algo|
 | Versión 3<br> | 1/6/2024 | o algo|
-| Versión 3<br> | 2/6/2024 | o algo|
+| Versión 3<br> | 2/6/2024 | ENTREGA|
 
 
 
