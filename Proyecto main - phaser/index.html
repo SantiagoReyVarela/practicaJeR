@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piedra, Papel, Tijeras</title>
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+    <div class="background-container">
+        <img src="img/background.png" class="background-image" alt="Background Image">
+        <div class="container">
+            <h1>Piedra Papel Tijeras</h1>
+
+            <div id="result">
+                <img id="user-img">
+                <div id="start-text">
+                    Elige una opción
+                </div>
+                <img id="machine-img">
+            </div>
+
+            <div id="botonesPPT">
+                <button id="piedra" type="button" class="button-size">
+                    <img src="img/rock.png"/>
+                </button>
+                <button id="papel" type="button" class="button-size">
+                    <img src="img/paper.png"/>
+                </button>
+                <button id="tijeras" type="button" class="button-size">
+                    <img src="img/scissors.png"/>
+                </button>
+            </div>
+
+            <div id="scores" class="score-container">
+                <p>Victorias del jugador: <span id="user-wins">0</span>/3</p>
+                <p>Victorias de la máquina: <span id="machine-wins">0</span>/3</p>
+            </div>
+
+            <footer>Santiago Varela Rey</footer>
+        </div>
+    </div>
+
+
+    <script src=scene.js></script>
+
+    <script src="phaser.js"></script>
+
+</body>
+</html>
